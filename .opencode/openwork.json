@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "mindflow",
+    "createdAt": 1781172950518,
+    "preset": "starter"
+  },
+  "authorizedRoots": [
+    "/home/amir/mindflow"
+  ],
+  "reload": null
+}

@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <nav className="fixed bottom-10 left-0 right-0 z-50 flex justify-center h-18">
       <div
-        className="rounded-full w-[90%] h-full flex items-center justify-around  shadow-2xl border border-white/10 bg-[#1D2435]/60 backdrop-blur-xs px-4">
+        className="rounded-full w-[90%] h-full flex items-center justify-around border border-white/10 bg-[#1D2435]/60 backdrop-blur-xs px-4">
 
         <div className={"flex flex-col gap-1 justify-center  h-full  items-center "} onClick={()=>setSelectPage("brain")}>
           <Link to="/">

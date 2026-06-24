@@ -1,6 +1,11 @@
+import TaskManager from "../Tasks/TaskManager"
+
 const Brain = () => {
+
   return (
-    <div>Brain</div>
+    <div className={"w-full h-full pt-6 "}>
+        <TaskManager />
+    </div>
   )
 }
 

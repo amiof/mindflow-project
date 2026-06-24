@@ -18,7 +18,7 @@ function App() {
         margin: 0,
         padding: 0,
         boxSizing: "border-box",
-        background:"#0F1729"
+        background:"#111A2C"
       }}
     >
       <Grid
